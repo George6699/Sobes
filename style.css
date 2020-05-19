@@ -1,0 +1,19 @@
+#search{
+  border: 2px solid red;
+  padding: 15px;
+}
+
+#button{
+  background-color: green;
+  padding: 5px;
+  border-radius: 15px;
+  text-transform: uppercase;
+}
+
+.superSum{
+  margin-top: 20px;
+}
+
+#sort {
+  margin-top: 20px;
+}
